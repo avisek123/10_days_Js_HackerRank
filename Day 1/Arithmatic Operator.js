@@ -10,7 +10,7 @@
 **/
 function getArea(length, width) {
     let area;
-    area=length*width;
+    area=length*width;      
     // Write your code here
     
     return area;
